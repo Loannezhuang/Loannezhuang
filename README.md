@@ -5,7 +5,6 @@
 - 📊 I’m passionate about turning data into insights and solving real-world problems with analytics.
 - 🌱 Currently exploring advanced machine learning techniques and data visualization tools.
 - 🤝 Fun fact: Love meeting new people and hearing their stories.
-- 🌎 Pronouns: She/Her
 
 <!--
 **Loannezhuang/Loannezhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
