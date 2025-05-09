@@ -6,6 +6,8 @@
 - 🌱 Currently exploring advanced machine learning techniques and data visualization tools.
 - 🤝 Fun fact: Love meeting new people and hearing their stories.
 
+<img src="https://github-readme-stats.vercel.app/api?username=Loannezhuang&show_icons=true&title_color=cc6600&icon_color=ff9900&text_color=333333&bg_color=fffaf2">
+
 <!--
 **Loannezhuang/Loannezhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
