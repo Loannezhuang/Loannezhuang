@@ -12,6 +12,12 @@
 [![Read My Articles on Medium](https://img.shields.io/badge/Medium-Read%20my%20articles-orange?style=flat&logo=medium)](https://medium.com/@loannezhuang)
 
 ---
+
+### 🌸 My Art on Xiaohongshu (小红书)
+
+- [🎨 第十次临摹 - Loanne](https://www.xiaohongshu.com/discovery/item/618fda8b000000002103bdc6?source=webshare&xhsshare=pc_web&xsec_token=ABZFAtCjqEqnjlBlUOmUxUqfEkarmMnvUPO9XViVleoeY=&xsec_source=pc_share)
+
+---
 <img src="https://github-readme-stats.vercel.app/api?username=Loannezhuang&show_icons=true&title_color=cc6600&icon_color=ff9900&text_color=333333&bg_color=fffaf2">
 
 <!--
