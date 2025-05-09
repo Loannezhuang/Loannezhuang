@@ -15,8 +15,11 @@
 
 ### 🌸 My Art on Xiaohongshu (小红书)
 
-- [🎨 第十次临摹 - Loanne](https://www.xiaohongshu.com/discovery/item/618fda8b000000002103bdc6?source=webshare&xhsshare=pc_web&xsec_token=ABZFAtCjqEqnjlBlUOmUxUqfEkarmMnvUPO9XViVleoeY=&xsec_source=pc_share)
-
+- [🎨 10th Artwork - Loanne](https://www.xiaohongshu.com/discovery/item/618fda8b000000002103bdc6?source=webshare&xhsshare=pc_web&xsec_token=ABZFAtCjqEqnjlBlUOmUxUqfEkarmMnvUPO9XViVleoeY=&xsec_source=pc_share)  
+  This artwork has received over 10,000 likes on Xiaohongshu.
+- [🎨 3rd Artwork - Loanne](https://www.xiaohongshu.com/discovery/item/616bf49e00000000010247a2?source=webshare&xhsshare=pc_web&xsec_token=ABYUtuwtNC1I8uUFclP5Y4CWwxnB-OAqTZqLsb4k0SaNo=&xsec_source=pc_share)  
+  This artwork has received over 4,000 likes on Xiaohongshu. 
+  
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=Loannezhuang&show_icons=true&title_color=cc6600&icon_color=ff9900&text_color=333333&bg_color=fffaf2">
 
