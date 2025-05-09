@@ -5,7 +5,13 @@
 - 📊 I’m passionate about turning data into insights and solving real-world problems with analytics.
 - 🌱 Currently exploring advanced machine learning techniques and data visualization tools.
 - 🤝 Fun fact: Love meeting new people and hearing their stories.
+---
 
+### 📝 Love Exploring AI Applications
+
+[![Read My Articles on Medium](https://img.shields.io/badge/Medium-Read%20my%20articles-orange?style=flat&logo=medium)](https://medium.com/@loannezhuang)
+
+---
 <img src="https://github-readme-stats.vercel.app/api?username=Loannezhuang&show_icons=true&title_color=cc6600&icon_color=ff9900&text_color=333333&bg_color=fffaf2">
 
 <!--
